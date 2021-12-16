@@ -1,0 +1,9 @@
+{
+	"name": "colictionary",
+	"version": "1.0.1",
+	"license": "MIT",
+	"releasenote": "Initial release.",
+	"contributors": ["itsamedood"],
+	"classPath": "lib/",
+	"url": "https://github.com/itsamedood/colictionary-hx"
+}
